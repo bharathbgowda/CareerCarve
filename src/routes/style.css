@@ -1,0 +1,48 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 130vh;
+  background-color: rgba(37, 35, 35, 0.932);
+  background-size: cover;
+  background-position: center;
+}
+
+.scheduler {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ 
+  background-size: contain;
+  width: 70vw;
+  max-width: 900px;
+  height: 50vw;
+  max-height: 425px;
+}
+
+form{
+    background-color: white;
+    padding: 0px 60px;
+    border-radius: 10px;
+}
+
+h1,h3{
+    color: black;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}

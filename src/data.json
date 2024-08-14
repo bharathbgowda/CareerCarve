@@ -1,0 +1,11 @@
+{
+    "aoe": [
+      { "value": "Machine Learning", "label": "Machine Learning" },
+      { "value": "Data Science", "label": "Data Science" }
+    ],
+    "mentors": [
+      { "value": "Alice Smith", "label": "Alice Smith" },
+      { "value": "Bob Johnson", "label": "Bob Johnson" }
+    ]
+  }
+  

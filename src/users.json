@@ -1,0 +1,31 @@
+{
+  "loginCredentials": {
+      "mentor": { 
+          "email": "mentor@example.com", 
+          "password": "mentor123" 
+      },
+      "student": { 
+          "email": "student@example.com", 
+          "password": "student123" 
+      }
+  },
+
+  "mentors": [
+      {
+          "id": 101,
+          "name": "Jane Smith",
+          "email": "jane@example.com",
+          "password": "mentor123",
+          "criteria": "mentor",
+          "expertise": ["Digital Marketing", "E-Commerce"]
+      },
+      {
+          "id": 102,
+          "name": "John Doe",
+          "email": "john@example.com",
+          "password": "mentor456",
+          "criteria": "mentor",
+          "expertise": ["FMCG Sales", "Equity Research"]
+      }
+  ]
+}
